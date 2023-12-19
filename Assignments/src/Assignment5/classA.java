@@ -9,13 +9,13 @@ public class classA
 	}
 	void multiply(float x,int y, int z )
 	{
-		 z = (int)(x * y);
+		 z= (int)(x * y);
 		System.out.println("integer multiplication = "+z);
 	}
 	
 	void multiply(int x,int y, float z )
 	{
-		 z = (int)(x * y);
+		  z = (int)(x * y);
 		System.out.println("integer multiplication = "+z);
 	}
 	
