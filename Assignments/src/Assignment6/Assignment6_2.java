@@ -1,5 +1,6 @@
 package Assignment6;
 
+
 class  MyDate1
 {
 	private int dd,mm,yy;
@@ -23,3 +24,5 @@ public class Assignment6_2
 	 }		
 
 }
+
+
