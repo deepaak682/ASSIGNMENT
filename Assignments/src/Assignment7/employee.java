@@ -9,7 +9,7 @@ class company
 	
 	company(int id,String name,int amt,int sal)
 	{
-		bid=id;
+		 bid=id;
 		bname=name;
 		amount=amt;
 		salary=sal;
