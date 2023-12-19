@@ -22,20 +22,3 @@ public class Assignment6_1
 	 }		
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,6 +1,6 @@
 package Assignment6;
 
-class Mydate1
+class  MyDate1
 {
 	private int dd,mm,yy;
 	static void show()
@@ -17,7 +17,9 @@ public class Assignment6_2
 	 public static void main(String[] args) 
 	 {
 
- Mydate1 obj1= new Mydate1();
- Mydate1 .show();
+ MyDate1 obj1= new MyDate1();
+ MyDate1.show();
 	 
-	 }}	
+	 }		
+
+}
