@@ -6,24 +6,33 @@ public class MultiDimensionalStringArray {
 	{
 		String arr[][]= {
 				{"deepa","girish","ram"},
-				{"jhon","hari","sachu"},
+				{"john","hari","sachu"},
 				{"manu","tomi","kishan"},
 		};
+		int found=0;
 		for(int i=0;i<arr.length;i++)
 		{
 			for (int j=0;j<arr.length;j++)
 			{
-	            if(arr[i][j]=="jhon")
+	            if(arr[i][j]=="john")
 	            {
-	            	System.out.println(  arr[i][j]+ "found");
+	            	found++;
 	            }
-	           
+	         
 			}
 	            
 		}    
-	          
+	   if (found>0) 
+	   
+		   System.out.println("value found");
+	   else 
+		   
+		   System.out.println("not found");
+	   
+	   
+	
 	            
-	}		
+	  }		
 }		
 
 	
