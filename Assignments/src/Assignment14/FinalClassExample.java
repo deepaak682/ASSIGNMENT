@@ -25,8 +25,7 @@ public class FinalClassExample
 	{
 		heros h1=new heros();
 		h1.run();
-	   bikes b1=new bikes();
-	   b1.run();
+	   
 	  
 	}
 
