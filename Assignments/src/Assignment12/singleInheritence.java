@@ -3,16 +3,16 @@ package Assignment12;
 class human
 
 {
-    void eat()
+    public void eat()
 	{
 		System.out.println("i am eating");
 	}
-	void work()
+	public void work()
 	{
 		System.out.println("i am working"); 
 		
 	}
-	void sleep()
+	public void sleep()
 	{
 		System.out.println("i am sleeping");
 	}
@@ -22,11 +22,11 @@ class human
 class deepa extends human
 {
   
-  void read() 
+ public  void read() 
   {
 	  System.out.println("reading");
   }
-  void speech() 
+  public void speech() 
    {
 	System.out.println("talking");
    }
