@@ -6,7 +6,7 @@ package Assignment14;
 	
 	public void run()
 	{
-		System.out.println("bike is running with" + speed+ "speed");
+		System.out.println("bike is running with " + speed+ "speed");
 	}
 }
 class heros extends bikes
@@ -25,7 +25,7 @@ public class FinalClassExample
 	{
 		bikes h1=new heros();
 		h1.run();
-	  
+	
 	  
 	  
 	}
